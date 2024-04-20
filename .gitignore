@@ -1,1 +1,3 @@
+# Will ignore the folder 'output' that contains .exe files while the programm is begin compile in Vscode 
+
 C_programms/output 
