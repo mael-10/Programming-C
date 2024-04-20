@@ -25,6 +25,7 @@ int main() { //inicio do programa
    // "%d" para números inteiros 
    // "%f" para números reais 
    // "%c" para caracteres 
+   // "s%" para strings
 
    printf("Meu número favorito é %d\n", varTeste);
 

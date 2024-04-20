@@ -22,7 +22,7 @@ int main() {
     int sum = x + y; // sum recebe a soma 
     printf("%d \n \n", sum);
 
-        //Variáveis na mesma string
+        //Variáveis multiplas declarações com o mesmo valor 
 
     int a, b, c;
     a = b = c = 50; //Cada um recebe o valor do outro 
@@ -31,7 +31,12 @@ int main() {
     /*
         Regras para variáveis os nomes da variáveis (Declaração de variáveis): 
 
-        
+        1- Os Nomes podem conter letras e números e underscores.  
+        2- Os Nomes podem começar com letras e underscores.  
+        3- Os Nomes não podem começar com números. 
+        4- Os Nomes são case-sensitive myVar é diferente de myvar.  
+        5- Os Nomes não podem conter caracteres especiais. 
+        6- Palavras reservadas não podem ser usadas, como o "int".
     */
 
     return 0;
