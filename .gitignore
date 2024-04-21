@@ -1,7 +1,7 @@
-# Will ignore the folder 'output' that contains .exe files while the programm is begin compile in Vscode 
-
-C_programms/output 
-
 # Will igonre all files .exe whatever IDE you are using 
 
 *.exe
+
+# Will ignore the folder 'output' that contains .exe files while the programm is begin compile in Vscode 
+
+output

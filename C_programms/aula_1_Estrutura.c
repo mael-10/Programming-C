@@ -1,5 +1,5 @@
 #include <stdio.h> //biblioteca usada para o input e o output do c
-#include <locale.h> //biblioteca de idiomas, para identifcar o idioma que est� usando 
+#include <locale.h> //biblioteca de idiomas, para identifcar o idioma que está usando 
 
 int main() { //inicio do programa 
     setlocale(LC_ALL, "Portuguese_Brazil"); //Especifica qual o seu idioma com base na biblioteca <locale.h> 
