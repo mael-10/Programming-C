@@ -29,7 +29,7 @@ int main() { //inicio do programa
 
     //Saber o tipo de dado correto irá salvar memoria e irá melhorá a performace do seu programa 
 
-    Sleep(6000);  // Aguarda 8 segundos (2000 milissegundos)
+    Sleep(8000);  // Aguarda 8 segundos (2000 milissegundos)
     system("cls"); // Limpa a tela
 
     int items = 50;
